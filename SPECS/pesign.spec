@@ -59,6 +59,8 @@ Patch0026: 0026-Clean-up-gcc-command-lines-a-little.patch
 Patch0027: 0027-Make-pesign-users-groups-static-in-the-repo.patch
 Patch0028: 0028-rpm-Make-the-client-signer-use-the-fedora-values-unl.patch
 Patch0029: 0029-Make-macros.pesign-error-in-kojibuilder-if-we-don-t-.patch
+# https://github.com/rhboot/pesign/commit/b535d1ac5cbcdf18a97d97a92581e38080d9e521
+Patch0030: 0030-Fix-type-set-incorrectly-for-ns-cert-type-app.patch
 
 %description
 This package contains the pesign utility for signing UEFI binaries as
